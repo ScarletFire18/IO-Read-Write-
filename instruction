@@ -1,0 +1,6 @@
+instantialize array in demo
+do not need to create objects in class
+2methods
+read and write methods
+2 arguments: name of file, reference to int array[]
+value is address of array
